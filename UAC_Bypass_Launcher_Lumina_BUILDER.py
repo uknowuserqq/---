@@ -4,7 +4,7 @@ from pystyle import Colorate, Colors
 
 color_loggers = Colors.white_to_red
 
-def lnksiplgrs():
+def interfaz():
     contenido = """
 ██╗     ██╗   ██╗███╗   ███╗██╗███╗   ██╗ █████╗       ████████╗ ██████╗  ██████╗ ██╗     
 ██║     ██║   ██║████╗ ████║██║████╗  ██║██╔══██╗      ╚══██╔══╝██╔═══██╗██╔═══██╗██║     
@@ -112,7 +112,7 @@ if __name__ == "__main__":
 
 if __name__ == "__main__":
     os.system('cls')
-    lnksiplgrs()
+    interfaz()
     
     exe_target = input(Colorate.Horizontal(color_loggers, "Exe to open: ")).strip()
     
