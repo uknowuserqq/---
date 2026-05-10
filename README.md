@@ -3,7 +3,7 @@ Con Lumina ejecuta cualquier aplicacion que requiera privilegios de administrado
 
 ![Version](https://img.shields.io/badge/Version-1.0.0-red) 
 
-𝐂𝐚𝐫𝐚𝐜𝐭𝐞𝐫𝐢𝐬𝐭𝐢𝐜𝐚𝐬 :
+Caracteristicas :
 
 
 
